@@ -1,4 +1,4 @@
-# Oasis-Infobyte-Internship
+# Oasis-Infobyte-Internship Task 2(Number Guessing Game)
  I developed a console-based 'Guess the Number' game using Core Java. This interactive project showcases my skills in creating engaging and user-friendly applications.
 
 ✨ Here’s how it works:
